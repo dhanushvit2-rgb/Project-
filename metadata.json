@@ -1,0 +1,6 @@
+{
+  "name": "Gourmet Burger Studio",
+  "description": "An ultra-photorealistic luxury gourmet cheeseburger advertisement designer and marketing content generator, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
